@@ -19,3 +19,7 @@
 1. نصب Flask (در صورت نیاز):
 ```bash
 pip install flask
+```
+اجرای برنامه:
+```bash
+python app.py
